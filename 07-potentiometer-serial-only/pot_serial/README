@@ -1,0 +1,11 @@
+# Potentiometer Reading via Serial Monitor
+
+This simple project reads the analog value of a potentiometer, converts it to voltage and resistance, and prints the result to the Serial Monitor.
+
+## 🔧 Hardware
+- ESP32 board
+- Potentiometer
+- Jumper wires
+
+## 📁 File
+- `pot_serial.ino`: ADC reading with resistance estimation
